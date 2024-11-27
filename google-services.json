@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086303948160",
+    "project_id": "aplikasi-sederhana-7b134",
+    "storage_bucket": "aplikasi-sederhana-7b134.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086303948160:android:b8f18e960945e18abd8565",
+        "android_client_info": {
+          "package_name": "com.fasilkom.cobaaja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvANAM5SrCC5VNBdjx6tUaY60vGg4KcPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
